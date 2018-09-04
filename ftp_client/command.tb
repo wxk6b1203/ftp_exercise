@@ -1,0 +1,16 @@
+# FTP client command table
+
+help    Show the manual.
+link    Connect to a server.
+login   Login as a new user.
+cd      Enter a directory.
+pwd     Show parent working directory.
+exit    Disconnect the link and exit.
+out     Logout.
+down    Download a file.
+up      Upload a file.
+clear   Clean the current bash.
+ls      List all contents of directory.
+logged  List all current logged in user.
+mkdir   Make a new directory.
+rmdir   Remove a directory.
